@@ -1,0 +1,53 @@
+Track Name,Track Length (m),Turns,Lap Count,Avg Turn Angle (deg),Community Best Combo,CBC_Speed,CBC_Acceleration,CBC_Handling,CBC_Mini Turbo,CBC_Traction,flag_target_unverified,elevation_level,offroad_pct,road_pct,water_pct,antigrav_pct,flag_terrain_pct_invalid
+Mario Kart Stadium,1600,8,3,45,Pink Yoshi + Cat Cruiser + Cushion + Paper Glider,3.0,3.0,3.5,3.25,4.5,0,1,20.0,60.0,10.0,10.0,0
+Water Park,1800,10,3,30,White Yoshi + Mr. Scooty + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,10.0,70.0,15.0,5.0,0
+Sweet Sweet Canyon,1900,12,3,25,Orange Yoshi + Mr. Scooty + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,20.0,65.0,10.0,5.0,0
+Thwomp Ruins,2100,15,3,35,Yellow Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,2,25.0,50.0,20.0,5.0,0
+Mario Circuit,1500,6,3,40,Pink Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,15.0,75.0,5.0,5.0,0
+Toad Harbor,2100,10,3,40,Orange Yoshi + Varmint + Azure Roller + Paper Glider,2.75,4.0,4.5,4.25,3.25,0,1,30.0,60.0,5.0,5.0,0
+Twisted Mansion,2100,12,3,35,Pink Yoshi + Mr. Scooty + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,25.0,60.0,10.0,5.0,0
+Shy Guy Falls,1600,9,3,45,Blue Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,35.0,45.0,10.0,10.0,0
+Sunshine Airport,1900,8,3,40,Pink Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,25.0,55.0,15.0,5.0,0
+Dolphin Shoals,1600,6,3,30,Pink Yoshi + Streetle + Azure Roller + Paper Glider,3.0,4.0,4.0,4.0,3.25,0,1,10.0,70.0,15.0,5.0,0
+Electrodrome,1800,10,3,35,White Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,20.0,60.0,10.0,10.0,0
+Mount Wario,3000,8,3,25,Black Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,35.0,55.0,5.0,5.0,0
+Cloudtop Cruise,2200,10,3,40,Black Yoshi + Inkstriker + Azure Roller + Paper Glider,4.0,4.0,3.0,4.0,3.0,1,0,15.0,75.0,5.0,5.0,0
+Bone-Dry Dunes,1800,7,3,35,Pink Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,20.0,65.0,10.0,5.0,0
+Bowser's Castle,2200,10,3,30,Red Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,25.0,65.0,5.0,5.0,0
+Rainbow Road,1500,12,3,45,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,10.0,70.0,10.0,10.0,0
+Wii Moo Moo Meadows,1700,6,3,30,Yellow Yoshi + Biddybuggy + Azure Roller + Parachute,2.0,5.25,4.5,5.25,3.5,0,1,20.0,60.0,10.0,10.0,0
+GBA Mario Circuit,1500,5,3,35,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,15.0,70.0,10.0,5.0,0
+DS Cheep Cheep Beach,1800,7,3,40,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,10.0,70.0,15.0,5.0,0
+N64 Toad's Turnpike,1800,8,3,40,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,10.0,75.0,5.0,10.0,0
+GCN Dry Dry Desert,1800,6,3,30,Yellow Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,25.0,60.0,10.0,5.0,0
+SNES Donut Plains 3,1500,5,3,35,Red Yoshi + Mr. Scooty + Roller + Cloud Glider,2.0,5.25,4.5,5.25,3.5,0,1,15.0,75.0,5.0,5.0,0
+N64 Royal Raceway,2200,10,3,40,Pink Yoshi + Teddy Buggy + Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,20.0,70.0,5.0,5.0,0
+3DS DK Jungle,2100,8,3,35,Yellow Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,20.0,65.0,10.0,5.0,0
+DS Wario Stadium,1700,6,3,30,Light-blue Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,25.0,55.0,10.0,10.0,0
+GCN Sherbet Land,1800,8,3,30,Birdo (Light Blue) + Biddybuggy + Azure Roller + Paper Glider,4.0,4.0,3.0,4.0,3.0,1,1,25.0,60.0,10.0,5.0,0
+3DS Music Park,2200,10,3,35,Pink Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,15.0,75.0,5.0,5.0,0
+N64 Yoshi Valley,2200,12,3,40,Pink Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,20.0,65.0,10.0,5.0,0
+DS Tick-Tock Clock,2000,8,3,30,Light-blue Yoshi + Biddybuggy + Roller + Flower Glider,2.0,5.25,4.5,5.25,3.5,0,1,15.0,70.0,10.0,5.0,0
+3DS Piranha Plant Slide,2000,7,3,35,Black Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,15.0,70.0,10.0,5.0,0
+Wii Grumble Volcano,2200,8,3,30,Yellow Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,25.0,60.0,10.0,5.0,0
+N64 Rainbow Road,1500,8,1,20,Pink Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,5.0,85.0,0.0,15.0,1
+GCN Yoshi Circuit,1075,11,3,45,Orange Yoshi + Mr. Scooty + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,10.0,90.0,0.0,0.0,0
+Excitebike Arena,960,6,3,30,Pink Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,2,20.0,80.0,0.0,0.0,0
+Dragon Driftway,1000,7,3,45,Yellow Yoshi + Biddybuggy + Azure Roller + Parachute,2.0,5.25,4.5,5.25,3.5,0,1,5.0,5.0,5.0,85.0,0
+Mute City,1050,5,3,30,Kamek + Mach 8 + Leaf Tires + Paper Glider,2.0,3.0,3.25,3.25,2.75,1,2,0.0,0.0,0.0,100.0,0
+Wii Wario's Gold Mine,1200,8,3,50,White Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,2,10.0,85.0,5.0,0.0,0
+SNES Rainbow Road,800,5,3,60,Light-blue Yoshi + Pipe Frame + Azure Roller + Paper Glider,2.75,4.0,4.5,4.25,3.25,0,2,0.0,0.0,0.0,100.0,0
+Ice Ice Outpost,1100,6,3,45,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,10.0,85.0,5.0,0.0,0
+Hyrule Circuit,1000,7,3,50,Yellow Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,15.0,75.0,5.0,5.0,0
+GCN Baby Park,600,7,7,20,Orange Yoshi + Mr. Scooty + Leaf Tires + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,0.0,95.0,0.0,5.0,0
+GBA Cheese Land,1200,9,3,45,Peachette + Biddybuggy + Azure Roller + Paper Glider,1.75,3.5,4.0,3.75,3.25,1,1,5.0,90.0,0.0,5.0,0
+Wild Woods,1500,12,3,30,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,10.0,80.0,5.0,5.0,0
+Animal Crossing,1000,7,3,25,Light-blue Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,0,5.0,85.0,0.0,10.0,0
+3DS Neo Bowser City,1400,10,3,60,White Yoshi + Biddybuggy + Azure Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,2,0.0,95.0,0.0,5.0,0
+GBA Ribbon Road,1100,9,3,50,Kamek + Teddy Buggy + Azure Roller + Paper Glider,1.75,3.25,4.0,3.5,3.0,1,1,5.0,85.0,0.0,10.0,0
+Super Bell Subway,900,8,3,30,Light-blue Yoshi + Biddybuggy + Roller + Paper Glider,2.0,5.0,4.5,5.0,3.5,0,1,5.0,90.0,0.0,5.0,0
+Big Blue,1200,8,3,60,Funky Kong + Mach 8 + Wood + Paper Glider,2.0,3.75,4.25,3.75,3.25,1,2,0.0,0.0,100.0,100.0,1
+Tour Paris Promenade,1200,11,3,35,Pink Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,5.0,90.0,0.0,5.0,0
+3DS Toad Circuit,1000,7,3,25,Kamek + Teddy Buggy + Azure Roller + Paper Glider,1.75,3.25,4.0,3.5,3.0,1,0,5.0,90.0,0.0,5.0,0
+N64 Choco Mountain,1400,10,3,50,White Yoshi + Teddy Buggy + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,2,5.0,85.0,0.0,10.0,0
+Wii Coconut Mall,1400,9,3,40,White Yoshi + Cat Cruiser + Azure Roller + Paper Glider,2.75,3.75,4.0,4.0,3.75,0,1,5.0,85.0,0.0,10.0,0
